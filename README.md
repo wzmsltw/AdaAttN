@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains the official PyTorch implementation of paper:
+This repository contains the official PaddlePaddle implementation of paper:
 
 *AdaAttN: Revisit Attention Mechanism in Arbitrary Neural Style Transfer*, 
 
